@@ -1,0 +1,7 @@
+# General
+.vscode
+.mypy_cache
+.env
+
+# Python
+venv
