@@ -17,7 +17,7 @@ git clone git@github.com:ewertones/ewertongpt
 2. Exporte a credencial de acesso à API da OpenAI (senão tiver, gere uma ou peça ao autor 😃). Se usar Windows, substitua `export` por `set`:
 
 ```bash
-OPENAI_SECRET="sua-chave-aqui"
+export OPENAI_SECRET="sua-chave-aqui"
 ```
 
 ### Python
